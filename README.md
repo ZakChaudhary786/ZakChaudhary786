@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZakChaudhary786
+- 👋 Hi, I’m Zak
 - 👀 I’m interested in Game Development, Web Development, Software Development, Software Testing, Cyber Security
 - 🌱 I’m currently learning to extend my knowledge of Frontend Development
 - 💞️ I’m looking to collaborate on ...
